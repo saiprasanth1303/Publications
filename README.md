@@ -27,7 +27,7 @@ This repo contains all the papers i've authored/co-authored so far.
 ### Paper 4 : Air Quality Sensing Network in Smart City using LoRa WAN  
 **Authors:** S Shriram, P Sai Prasanth, Meghna Anand
 
-* Published in IJRTE (Scopus Indexed) ( Mar, 2019 ) 
+* Published in IJRTE (Scopus Indexed) ( Mar, 2020 ) 
 * [Download/View](https://github.com/saiprasanth1303/Publications/raw/master/Air%20Quality%20Sensing%20Network%20in%20Smart%20City.pdf) 
 
 #
